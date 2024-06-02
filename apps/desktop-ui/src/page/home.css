@@ -1,0 +1,23 @@
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-box {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width: 600px;
+    color: antiquewhite;
+    background-color: #1d1a29;
+    border-radius: 10px;
+}
+
+.create-button {
+    margin-top: 20px;
+}

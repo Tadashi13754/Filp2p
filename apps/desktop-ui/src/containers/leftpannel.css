@@ -1,0 +1,45 @@
+.leftpannel{
+    color: #ECEFEF;
+}
+
+.logo-area{
+    padding-left: 60px;
+    padding-top: 40px;
+}
+.logo-text{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.options-section {
+    padding-top: 75px;
+    padding-left: 20px;
+}
+.pannelbutton{
+    font-size: 24px;
+    display: flex;
+    height: 50px;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 25px;
+    &:hover {
+        background-color: #201D29;
+        border-radius: 10px;
+    }
+}
+
+.selected {
+    background-color: #201D29;
+    border: #201D29 solid;
+    border-radius: 10px;
+}
+
+.wiki {
+    font-size: 24px;
+    height: 50px;
+    padding-left: 45px;
+    padding-top: calc(100vh - 400px);
+    &:hover {
+        cursor: pointer;
+    }
+}

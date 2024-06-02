@@ -1,0 +1,30 @@
+.dashboard {
+    background-color: #161421;
+    display: flex;
+}
+
+.right-pannel {
+    /* display: flex;
+    flex-flow: row; */
+    width: calc(100vw - 240px);
+}
+.left-pannel {
+    width: 240px;
+    height: 100vh;
+    background-color: #161421;
+}
+.partition{
+    width: 1px;
+    background-color: antiquewhite;
+}
+
+.top-bar {
+    height: 60px;
+    width: calc(100vw - 240px);
+    background-color: #161421;
+}
+
+.center-portion {
+    width: calc(100vw - 240px);
+    height: calc(100vh - 60px);
+}

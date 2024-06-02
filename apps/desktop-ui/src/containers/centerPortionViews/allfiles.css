@@ -1,0 +1,28 @@
+.show-files{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.show-files-top{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+
+.icon-box-files{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 15px;
+}
+#file-text{
+    padding-top: 5px;
+    color: antiquewhite;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100px;
+    justify-content: space-around;
+    display: flex;
+}

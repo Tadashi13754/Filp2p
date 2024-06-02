@@ -1,0 +1,8 @@
+.top-bar{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding-right: 30px;
+    color: antiquewhite;
+}

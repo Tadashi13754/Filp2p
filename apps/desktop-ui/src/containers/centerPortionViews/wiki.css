@@ -1,0 +1,13 @@
+.wiki-container{
+    overflow: hidden;
+}
+.about-sec{
+    color: antiquewhite;
+    font-size: 24px;
+    padding-left: 15px;
+}
+.detail-sec{
+    color: antiquewhite;
+    font-size: 18px;
+    padding-left: 15px;
+}

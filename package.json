@@ -1,0 +1,12 @@
+{
+  "name": "filp2p",
+  "version": "1.0.0",
+  "description": "p2p file storage",
+  "main": "index.js",
+  "author": "tadashi",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "apps/*"
+  ]
+}
